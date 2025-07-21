@@ -32,9 +32,6 @@ This is a Streamlit-based application (`scheme_assistant.py`) that extracts and 
 ### Installation and Running
 
 ```bash
-# Clone the repository
-gh repo clone gitpamok/scheme-assistant
-cd scheme-assistant
 
 # Install Python dependencies
 pip install -r requirements.txt
