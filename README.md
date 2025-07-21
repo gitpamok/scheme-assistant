@@ -34,6 +34,6 @@ This is a Streamlit-based application (`scheme_assistant.py`) that extracts and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/scheme-assistant.git
+gh repo clone gitpamok/scheme-assistant
 cd scheme-assistant
 
