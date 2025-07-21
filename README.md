@@ -39,10 +39,8 @@ pip install -r requirements.txt
 ```
 
 ```
-
 # Run the Streamlit app
 streamlit run scheme_assistant.py
-
 ```
 
 ### Sample pdf link for testing
