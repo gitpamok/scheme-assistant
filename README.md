@@ -39,3 +39,12 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run scheme_assistant.py
 
+```
+
+### Sample pdf link for testing
+
+```bash
+
+https://mohua.gov.in/upload/uploadfiles/files/PMSVANidhi%20Guideline_English.pdf
+
+```
