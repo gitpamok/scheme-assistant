@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-ollama
+sentence-transformers
+faiss-cpu
+PyMuPDF
+pytesseract
+pdf2image
+Pillow
+PyYAML
+requests
+
+
+
+
+# pip install -r requirements.txt
