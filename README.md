@@ -36,6 +36,10 @@ This is a Streamlit-based application (`scheme_assistant.py`) that extracts and 
 # Install Python dependencies
 pip install -r requirements.txt
 
+```
+
+```
+
 # Run the Streamlit app
 streamlit run scheme_assistant.py
 
